@@ -1,0 +1,1 @@
+So, this is file created to test GitHub PR service.
